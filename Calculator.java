@@ -1,5 +1,7 @@
 public class Calculator {
-    //test git_a"
+
+    //test git_merge"
+
     public int add(int a, int b) {
         return a + b;
     }
